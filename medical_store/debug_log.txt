@@ -1,0 +1,42 @@
+COD Order Triggered
+COD Order Triggered
+POST Data: Array
+(
+)
+
+POST Data: Array
+(
+    [customer_name] => jidnyasa
+)
+
+POST Data: Array
+(
+    [cod_order] => 1
+)
+
+COD Order Triggered
+POST Data: Array
+(
+    [cod_order] => 1
+)
+
+COD Order Triggered
+POST Data: Array
+(
+)
+
+POST Data: Array
+(
+)
+
+POST Data: Array
+(
+    [customer_name] => jidnyasa
+)
+
+POST Data: Array
+(
+    [cod_order] => 1
+)
+
+COD Order Triggered
